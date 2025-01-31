@@ -37,7 +37,10 @@ Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/hon
 - **[Notes](Cs50-notes)** - _contains notes I took from various sources, mostly from each week's notes section._
 
 ---
-
-### :arrow_forward: **Week 1 - C**
+### :arrow_forward: **Scratch**
 
 <br>
+
+- **[Whack-a-Mouse](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)** - _a simple Scratch game which is a combination of Space Invaders and Whack-a-Mole._
+
+---
