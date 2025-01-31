@@ -15,3 +15,29 @@ Also down below are links and short descriptions for each of the projects. If yo
 ---
 
 <br>
+
+## :closed_book: **Academic Honesty**
+
+Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/honesty/). You should try figuring out a solution yourself before looking at other implementations. Also, bear in mind that I am a beginner, I've taken the course to learn, so the solutions might not be the best implementations.
+
+---
+
+<br>
+
+## :book: **Content**
+
+---
+
+### :arrow_forward: **Notes**
+
+<br>
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+- **[Notes](Notes)** - _contains notes I took from various sources, mostly from each week's notes section._
+
+---
+
+### :arrow_forward: **Week 1 - C**
+
+<br>
