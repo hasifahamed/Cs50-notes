@@ -41,5 +41,5 @@ Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/hon
 
 <br>
 
-- **[duck-a-jump](https://scratch.mit.edu/projects/1127432379)** - _a simple Scratch game
+- **[duck-a-egg](https://scratch.mit.edu/projects/1127432379)** - _a simple Scratch game
 ---
