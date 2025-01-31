@@ -41,6 +41,5 @@ Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/hon
 
 <br>
 
-- **[Whack-a-Mouse](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)** - _a simple Scratch game which is a combination of Space Invaders and Whack-a-Mole._
-
+- **[duck-a-jump](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)** - _a simple Scratch game
 ---
