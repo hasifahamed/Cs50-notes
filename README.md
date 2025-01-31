@@ -34,7 +34,7 @@ Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/hon
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-- **[Notes]cs50notes** - _contains notes I took from various sources, mostly from each week's notes section._
+- **[Notes]Cs50-notes** - _contains notes I took from various sources, mostly from each week's notes section._
 
 ---
 
